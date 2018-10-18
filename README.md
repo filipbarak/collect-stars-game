@@ -1,6 +1,11 @@
 # collect-stars-game
 
+
 # How to run:
+
+Visit: https://filipbarak.github.io/collect-stars-game/index
+
+Or locally:
 
 clone it
 
@@ -12,3 +17,6 @@ navigate to localhost:8080
 
 enjoy
 
+# How to play:
+
+Use arrow keys :)
